@@ -11,3 +11,10 @@ h1{
     text-decoration: overline, underline;
     text-decoration-style: solid rgb(38, 0, 255);
 }
+canvas{
+    height: 900px;
+    width: 600px;
+    border: ridge;
+    border-color: red;
+    text-align: center;
+}
